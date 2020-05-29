@@ -487,7 +487,8 @@ namespace Notify.Tests.UnitTests
                   {
                     {"document", new JObject
                       {
-                        {"file", "JVBERi0xLjUgdGVzdHBkZg=="}
+                        {"file", "JVBERi0xLjUgdGVzdHBkZg=="},
+                        {"is_csv", false}
                       }
                     }
                   }
